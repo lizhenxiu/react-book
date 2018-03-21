@@ -1,0 +1,45 @@
+
+.ui-page-list{
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+    display: block;
+    font-weight: 400;
+    text-decoration: none;
+    color: #713e23 !important;
+}
+.lh-125-st{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    color: #613f23;
+    font-size: 14px;
+    padding-right: 100px;
+    overflow: hidden;
+    line-height: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.lh-125-st:hover{
+color:#fa7a20;
+}
+.lh-125-st em{
+    color: #fa7a20;
+    width: 26px;
+    font-size: 16px;
+    font-weight: 700;
+    font-style: normal;
+    display: inline-block;
+}
+.ui-author{
+    text-align: right;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #666;
+    font-size: 12px;
+    line-height: 18px;
+    width:95px;
+    margin-top:8px;
+}

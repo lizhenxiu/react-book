@@ -1,0 +1,56 @@
+.ui-btn-main{
+    color: #fa7a20;
+    background-color: transparent;
+    background-image: none;
+    border-color: #fa7a20 !important;
+}
+.mt20{
+    margin-top: 30px;
+}
+.mt40{
+    margin-top: 40px;
+}
+.bg-fa7{
+    height: 44px;
+    padding-left: 248px;
+    margin-bottom: -4px;
+    line-height: 28px;
+    background: #fa7a20;
+    border-radius: 3px;
+}
+.col-fff{
+    color: #fff;
+}
+.col-fff:hover{
+    color: #fff;
+}
+.nav-link{
+    text-decoration: none;
+}
+.ui-title{
+    margin-bottom: 5px;
+    font-size: 24px;
+    color: #afa298;
+    line-height: 48px;
+    font-weight: 400;
+}
+.form-control:focus {
+    background-color: #fff;
+    border-color: #343a40 !important;
+    box-shadow: 0 0 0 0.2rem rgb(52, 58, 64)!important;;
+}
+
+.form-control::-webkit-input-placeholder {
+    font-size:14px;
+}
+    
+.form-control:-moz-placeholder { 
+    font-size:14px;
+}
+
+.form-control::-moz-placeholder { 
+    font-size:14px;
+}
+.form-control:-ms-input-placeholder { 
+    font-size:14px;
+}
