@@ -1,6 +1,6 @@
-# react-family
+# react-book
 
-[从零搭建react-family框架教程](https://github.com/brickspert/blog/issues/1)（教程会不断更新）
+[从零搭建react-book框架教程](https://github.com/brickspert/blog/issues/1)（教程会不断更新）
 
 希望您能和我一起完善这个框架！欢迎`fork`
 
